@@ -2,6 +2,7 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Demo](#demo)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
