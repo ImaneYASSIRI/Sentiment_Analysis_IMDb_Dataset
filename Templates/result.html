@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Result</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename=
+  'css/style.css')}}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename=
+  'css/bootstrap.css')}}">
+</head>
+<body>
+  <div class="bg-info" align="center">
+    <h2>Results</h2>
+  </div>
+  <div align="center">
+   {% if prediction == 'positive' %}
+   <h2 class="text-danger">Your review is positive</h2>
+   {% elif prediction == 'negative'%}
+   <h2 class="text-success">Your review is negative </h2>
+   {% endif %}
+  </div>
+</body>
+</html>
