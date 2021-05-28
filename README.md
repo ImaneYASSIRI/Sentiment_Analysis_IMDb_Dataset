@@ -20,7 +20,7 @@ You can also see the NLP and classification work that I did by opening the _IMDB
 
 
 ## Technologies
-Project is created with:
+This project is created with:
 * Python 3.8.8
 * Flask 2.0.1
 	
