@@ -1,4 +1,4 @@
-# Sentiment_Analysis_IMDb_Dataset
+# Sentiment Analysis: IMDb movie reviews dataset
 
 ## Table of contents
 * [General info](#general-info)
