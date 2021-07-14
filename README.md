@@ -4,7 +4,6 @@
 * [General info](#general-info)
 * [Demo](#demo)
 * [Technologies](#technologies)
-* [Setup](#setup)
 
 ## General info
 This project is a Flask application. The application predicts whether or not a review is positive, based on an IMDb movie reviews dataset.
@@ -24,9 +23,3 @@ This project is created with:
 * Python 3.8.8
 * Flask 2.0.1
 	
-## Setup
-To run this project, clone the repository, then run this command : 
-
-```
-$ pip install -r requirements.txt
-```
